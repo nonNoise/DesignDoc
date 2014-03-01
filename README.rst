@@ -41,7 +41,7 @@ https://github.com/nonNoise/DesignDoc/blob/master/Doc/KitagamiMethod.rst
 
 https://github.com/nonNoise/DesignDoc/blob/master/Doc/StudyTemplate.rst
 
-・仕様書
+・ハードウェア仕様書
 
 https://github.com/nonNoise/DesignDoc/blob/master/Doc/ProductSpecifications.rst
 
