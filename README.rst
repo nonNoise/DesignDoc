@@ -22,10 +22,18 @@ DesignDoc
 
 作成者:	nonNoise(北神雄太)
 
-公開範囲: GLP v2
+公開範囲: Public
 
 開発参加者:	北神雄太(ArtifactNoise) 
 
 
+
+-----------------------
+
+Last builde is 2014.03.01.
+
+CopyRight 2012 Yuta Kitagami.
+
+License is http://creativecommons.org/licenses/by-sa/2.1/jp
 
 
