@@ -26,6 +26,24 @@ DesignDoc
 
 開発参加者:	北神雄太(ArtifactNoise) 
 
+3.テンプレートリスト
+-----------------------
+
+・企画書
+
+https://github.com/nonNoise/DesignDoc/blob/master/Doc/DesignDocsTemplate.rst
+
+・プロジェクト管理
+
+https://github.com/nonNoise/DesignDoc/blob/master/Doc/KitagamiMethod.rst
+
+・勉強会報告
+
+https://github.com/nonNoise/DesignDoc/blob/master/Doc/StudyTemplate.rst
+
+・仕様書
+
+https://github.com/nonNoise/DesignDoc/blob/master/Doc/ProductSpecifications.rst
 
 
 -----------------------
