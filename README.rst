@@ -7,7 +7,7 @@ DesignDoc
 1.はじめに
 -----------------------
 
-本資料は、ArtifactNoise.LLD(http://artifactnoise.com/)で使用している、
+本資料は、ArtifactNoise(http://artifactnoise.com/)で使用している、
 
 企画書、仕様書、提案書、その他のドキュメントを製作する上で参考にしているテンプレート集です。
 
