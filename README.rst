@@ -34,6 +34,6 @@ Last builde is 2014.03.01.
 
 CopyRight 2012 Yuta Kitagami.
 
-License is http://creativecommons.org/licenses/by-sa/2.1/jp
+License is http://creativecommons.org/licenses/by-sa/2.0/ & http://creativecommons.org/licenses/by-sa/2.1/jp
 
 
